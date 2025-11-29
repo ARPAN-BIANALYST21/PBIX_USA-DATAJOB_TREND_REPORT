@@ -172,15 +172,15 @@ Measure Name	                               DAX Code
 
 🚀 Recommendations :
 
-1.Target states like CA, NY, IL for high job density
+1. Target states like CA, NY, IL for high job density
 
-2.Focus on Industries like Biotech, Insurance, IT Services
+2. Focus on Industries like Biotech, Insurance, IT Services
 
-3.Enhance skills in Python, SQL, ML frameworks, as reflected in skill matrix
+3. Enhance skills in Python, SQL, ML frameworks, as reflected in skill matrix
 
-4.Consider Postgraduate Education for better salary prospects
+4. Consider Postgraduate Education for better salary prospects
 
-5.Explore Nonprofit and Public Roles if seeking stability
+5. Explore Nonprofit and Public Roles if seeking stability
 
 
 
