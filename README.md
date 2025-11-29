@@ -100,8 +100,6 @@ Columns / Features: 31
 ✔ Complete Insights  
 
 
-  Provides actionable recommendations, such as:
-
 1. Target high-demand states
 
 2. Focus on Biotech, Insurance & IT Services
