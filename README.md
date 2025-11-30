@@ -5,10 +5,10 @@ Comprehensive Analysis of U.S. Data Job Market (742 Records | 31 Fields)
 
 📝 Project Overview
 
-This Power BI project analyzes data-related job trends across the United States, using a clean single-table dataset of 742 job postings with 31 attributes. The goal is to understand hiring demand, salary benchmarks, industry trends, ownership patterns, and skill requirements within the modern data profession landscape.
+This Power BI Project analyzes data-related job trends across the United States, using a clean Single-Table Dataset of 742 Job Postings with 31 Attributes. The goal is to understand Hiring Demand, Salary Benchmarks, Industry Trends, Ownership Patterns, and Skill Requirements within the modern data profession landscape.
 
 
-The dashboard is structured into five interactive report pages, each designed to highlight specific market insights :
+The Dashboard is structured into Five Interactive Slides, each designed to highlight Specific Market Insights :
 
 
 1.Project Brief
@@ -21,7 +21,7 @@ The dashboard is structured into five interactive report pages, each designed to
 
 5.Complete Insights
 
-These pages visualize trends such as top hiring states, highest salaries, job counts by seniority, skill expectations by role, job ownership distribution, and more, as reflected in charts and tables found throughout pages 2–5 of the PDF. (e.g., Top 5 Hiring States, Salary Distributions, Skill Matrix) 
+These Slides visualize Trends such as top Hiring States, Highest Salaries, Job Counts by Seniority, Skill Expectations by Roles, Ownership Distributions, and more, as reflected in Charts and Tables found throughout pages 2–5 of the PDF. (e.g., Top 5 Hiring States, Salary Distributions, Skill Matrix) 
 
 
 🎯 Objectives :
@@ -32,24 +32,24 @@ The primary objective of this report is to analyze the U.S. Data Job Market to a
 
 2. What are the Top-Paying Locations and Job Roles?
 
-3. How do Seniority Levels impact salary and job availability?
+3. How do Seniority Levels impact Salary and Job Opportunities?
 
-4. What Skills are most in demand across different roles?
+4. What Skills are most in demand across different Roles?
 
-5. How do Public, Private, Nonprofit, and Educational Institutions differ in their hiring patterns?
+5. How do Public, Private, Nonprofit, and Educational Institutions differ in their Hiring Patterns?
 
-6. What strategic recommendations can be formed for Job Seekers and Decision-Makers?
+6. What Strategic Recommendations can be formed for Job Seekers and Decision-Makers?
 
 
 🛠️ Tools & Technologies Used :
 
-A. MySQL Workbench:	Data extraction & ad-hoc SQL analysis
+A. MySQL Workbench:	Data Extraction & Ad-Hoc SQL Analysis
 
 B. Microsoft Excel:	Exploratory Data Analysis (EDA) using Pivot Tables
 
-C. Microsoft Power BI:	Data modeling, DAX calculations, and dashboard creation
+C. Microsoft Power BI:	DAX Calculations, Dasboard Preparation & Reporting
 
-D. Power Query:	Data cleaning & transformation
+D. Power Query:	Data Preprocessing & Quality Assurance
 
 
 📁 Dataset Summary :
@@ -68,52 +68,52 @@ Columns / Features: 31
 ✔ Market Overview 
 
 
-1. Top hiring states: California, New York, Massachusetts, Illinois  
+1. Top Hiring States: California, New York, Massachusetts, Illinois  
 
-2. Top industries: Biotech & Pharmaceuticals, Insurance, IT Services
+2. Top Industries: Biotech & Pharmaceuticals, Insurance, IT Services
 
-3. Job distribution across ownership types (e.g., Private = 410, Public = 193)
+3. Job Distributions across Ownership Types (e.g., Private = 410, Public = 193)
 
 
 ✔ Salary & Professional Insights  
 
 
-1. Highest salary locations: Chicago IL, San CA, Washington DC
+1. Highest Salary Locations: Chicago IL, San CA, Washington DC
 
-2. Seniority analysis showing Intermediate roles dominate job openings (519)
+2. Seniority Analysis showing Intermediate Roles dominate Job Openings (519)
 
-3. Average salary differences by education level
+3. Average Salary differences by Education Level
 
-4. Employee satisfaction by role
+4. Employee Satisfaction by Job Roles.
 
 
 ✔ Hiring Trends & Ownership Insights 
 
-1. Ownership-Wise job role demand (e.g., Private sector demands 24% Data Scientists)
+1. Ownership-Wise Job Role Demand (e.g., Private Sector demands 24% Data Scientists)
 
-2. Skills Distribution across job roles (full matrix shown in report)
+2. Skills Distribution across Job Roles (Full Matrix shown in the Report)
 
-3. Education vs. Salary insights
+3. Education vs. Salary Insights
    
 
 
 ✔ Complete Insights  
 
 
-1. Target high-demand states
+1. Target High-Demand States
 
 2. Focus on Biotech, Insurance & IT Services
 
-3. Data Science & Machine Learning roles show highest long-term potential
+3. Data Science & Machine Learning Roles show Highest Long-Term Potential
 
-4. Postgraduate degree significantly boosts earning potential
+4. Postgraduate Degree significantly boosts Earning Potential
 
 
 📐 Data Modeling :
 
-1. Single table schema, optimized with Power Query transformations
+1. Single-Table Schema, optimized with Power Query Transformations
 
-2. 13 DAX Measures created for cleaner KPI computation and reusable metrics
+2. 13 DAX Measures created for cleaner KPI Computation and Reusable Metrics
 
 
 
@@ -153,42 +153,42 @@ Measure Name	                               DAX Code
 
 🧩 Key Insights :
 
-✔ California & New York dominate hiring
+✔ California & New York dominate Hirings
 
-✔ Biotech & Pharmaceutical Industries lead job demand (33.7%)
+✔ Biotech & Pharmaceutical Industries lead Job Demand (33.7%)
 
-✔ Private Companies contribute 55% of total postings
+✔ Private Companies contribute 55% of all the Postings
 
-✔ Data Scientists are the most-in-demand role (313 postings)
+✔ Data Scientists are the Most In-Demand Role (313 postings)
 
 ✔ Highest Salaries appear in Washington, California, Illinois
 
 ✔ Postgraduates earn ~22% more than Graduates
 
-✔ Senior Roles bag the highest salaries but have fewer openings
+✔ Senior Roles bag the Highest Salaries but have fewer Openings
 
 
 
 
 🚀 Recommendations :
 
-1. Target states like CA, NY, IL for high job density
+1. Target states like CA, NY, IL for High Job Density
 
 2. Focus on Industries like Biotech, Insurance, IT Services
 
-3. Enhance skills in Python, SQL, ML frameworks, as reflected in skill matrix
+3. Enhance skills in Python, SQL, ML frameworks, as reflected in Skill Matrix
 
-4. Consider Postgraduate Education for better salary prospects
+4. Consider Postgraduate Education for Better Salary Prospects
 
-5. Explore Nonprofit and Public Roles if seeking stability
+5. Explore Nonprofit and Public Roles if seeking Stability
 
 
 
 🙌 Acknowledgements :
 
-This project was developed using the dataset provided by Datamites Internship Team and Market Relevant BI tools to provide insights for job seekers, recruiters, and policy makers.
+This project was developed using the dataset provided by Datamites Internship Team and Market Relevant BI Tools to provide insights for job seekers, recruiters, and policy makers.
 
 
-👉 Here is the complete PDF link of the report : https://github.com/ARPAN-BIANALYST21/PBIX_USA_DATAJOB_TREND_REPORT/blob/5bf8e994d99f48b39e65082c9b195ffc54581ea0/USA-DATAJOB_TREND_REPORT.pdf
+👉 Here is the complete PDF link of the Report : https://github.com/ARPAN-BIANALYST21/PBIX_USA_DATAJOB_TREND_REPORT/blob/5bf8e994d99f48b39e65082c9b195ffc54581ea0/USA-DATAJOB_TREND_REPORT.pdf
 
 
