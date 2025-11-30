@@ -120,37 +120,23 @@ Columns / Features: 31
 
 📊 DAX Measures Table :
 
-Measure Name	                               DAX Code
+| Measure Name          | DAX Code                                                                  |
+| --------------------- | ------------------------------------------------------------------------- |
+| **Data_Scientists**   | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Job_Title] = "Data Scientist"))`     |
+| **Government_Jobs**   | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Government"))` |
+| **Intermediate_Jobs** | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Intermediate"))`       |
+| **Junior_Jobs**       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Junior"))`             |
+| **Max_Salary**        | `MAX(Data_Tab[Upper_Salary])`                                             |
+| **Min_Salary**        | `MIN(Data_Tab[Lower_Salary])`                                             |
+| **Private_Jobs**      | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Private"))`    |
+| **Public_Jobs**       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Public"))`     |
+| **Salary_Avg**        | `AVERAGE(Data_Tab[Avg_Salary])`                                           |
+| **Senior_Jobs**       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Senior"))`             |
+| **Total_Companies**   | `DISTINCTCOUNT(Data_Tab[Company_Name])`                                   |
+| **Total_Industries**  | `DISTINCTCOUNT(Data_Tab[Industry])`                                       |
+| **Total_Jobs**        | `COUNT(Data_Tab[Job_Title])`                                              |
 
-1. Data_Scientists = COUNTROWS(FILTER(Data_Tab, Data_Tab[Job_Title] = "Data Scientist"))
-
-2. Government_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Government"))
-
-3. Intermediate_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Intermediate"))
-
-4. Junior_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Junior"))
-
-5. Max_Salary = MAX(Data_Tab[Upper_Salary])
-
-6. Min_Salary = MIN(Data_Tab[Lower_Salary])
-
-7. Private_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Private"))
-
-8. Public_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Public"))
-
-9. Salary_Avg = AVERAGE(Data_Tab[Avg_Salary])
-
-10. Senior_Jobs = COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Senior"))
-
-11. Total_Companies = DISTINCTCOUNT(Data_Tab[Company_Name])
-
-12. Total_Industries = DISTINCTCOUNT(Data_Tab[Industry])
-
-13. Total_Jobs = COUNT(Data_Tab[Job_Title])
     
-
-
-
 🧩 Key Insights :
 
 ✔ California & New York dominate Hirings
