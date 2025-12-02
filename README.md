@@ -175,6 +175,6 @@ Columns / Features: 31
 This Project was developed using the dataset provided by Datamites Internship Team and Market Relevant BI Tools to provide Insights for Job Seekers, Recruiters, and Policy Makers.
 
 
-👉 Here is the complete PDF link of the Report : https://github.com/ARPAN-BIANALYST21/PBIX_USA_DATAJOB_TREND_REPORT/blob/5bf8e994d99f48b39e65082c9b195ffc54581ea0/USA-DATAJOB_TREND_REPORT.pdf
+👉 Here is the complete PDF link of the Report : https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/8249c82de85849515074ffff8a7f516d612a38f2/USA-DATAJOB_TREND_REPORT.pdf
 
 
