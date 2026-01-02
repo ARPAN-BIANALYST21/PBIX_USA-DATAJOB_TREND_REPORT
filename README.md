@@ -117,6 +117,7 @@ Job Title, Salary Ranges, Company Name, Industry, Location, Seniority, Ownership
 
 
 📄 FULL REPORT 
+
 Download the complete Power BI report: https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/1e69f43fd6b62b0d49a8d8d2f4b1951da2acfce5/USA-DATAJOB_TREND_REPORT.pdf
 
 
