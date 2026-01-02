@@ -14,6 +14,7 @@ Power BI Analysis of the U.S. Data Job Market
 
 
 This Power BI Project analyzes Data-Related Job Trends across the United States, focusing on Hiring Demand, Salary Distribution, Seniority Levels, Skill Requirements, and Ownership Patterns.
+
 The Report emphasizes Clarity, Consistency, and Insight-Driven Storytelling using Simple but Effective Visuals.
 
 
