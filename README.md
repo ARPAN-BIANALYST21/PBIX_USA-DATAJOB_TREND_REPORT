@@ -133,7 +133,7 @@ The report is structured into three analytical segments:
 - Target high-demand states: California, New York, Illinois, Washington.
 - Prioritize industries: Biotech, Insurance and Computer Hardwares & Softwares
 - Upskill towards Data Science & Machine Learning roles.
-- Consider postgraduate education for higher salary growth.
+- Consider Postgraduate education for higher salary growth.
 
 ### For Recruiters & Employers
 - Strengthen competitive salary positioning in high-demand states.
