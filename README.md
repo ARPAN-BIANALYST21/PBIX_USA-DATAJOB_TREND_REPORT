@@ -119,7 +119,7 @@ The Report is structured into Three Analytical Segments:
 
 - Private Sector has the Highest Hiring Volume (410 Roles).
 - Data Scientists dominate across Ownership Types (171 Roles in Private Sector).
-- Government stands too far in comparison to hire Data Professionals (only 15 Roles).
+- Government stands too far in comparison to hire Data Professionals (15 Roles only).
 - Healthcare & Education Sectors show Lower Hiring Intensity.
 - Excel, SQL & Python are widely used accross different Job Roles.
 
