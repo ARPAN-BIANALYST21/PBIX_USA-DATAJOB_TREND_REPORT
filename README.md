@@ -39,7 +39,7 @@ This Power BI report explores data-related job trends across the United States, 
 - Ownership-based hiring patterns  
 - In-demand technical skills across job categories  
 
-The dashboard is structured into three analytical segments:
+The report is structured into three analytical segments:
 
 1. **Market Overview**
 2. **Salary & Professional Insights**
@@ -64,7 +64,7 @@ The dashboard is structured into three analytical segments:
 - Senior: 220  
 - Junior: 3  
 
-(Data derived from dashboard pages 2–4) :contentReference[oaicite:2]{index=2}  
+
 
 ---
 
@@ -83,7 +83,7 @@ The dashboard is structured into three analytical segments:
 - KPI modeling for hiring demand & compensation trends
 
 ### Visualization
-- Multi-page Power BI dashboards:
+- Multi-Page Power BI Dashboards:
   - Market Overview
   - Salary & Professional Insights
   - Hiring Trends & Ownership Analysis
@@ -95,44 +95,44 @@ The dashboard is structured into three analytical segments:
 ### 1️⃣ Market Overview
 
 - California and New York lead in hiring demand.
-- Bellevue, WA offers the highest average salary ($184,500).
+- Bellevue | Washington offers the highest average salary ($184,500).
 - Biotech & Pharmaceuticals dominate job postings (33.73%).
 - Private sector accounts for 55% of total openings.
 
-(Source: Market Overview page) :contentReference[oaicite:3]{index=3}  
+
 
 ---
 
 ### 2️⃣ Salary & Professional Insights
 
 - Directors earn the highest average salary ($130,800).
-- Chicago, IL offers maximum salary potential ($306K).
+- Chicago | Illinois offers maximum salary potential ($306K).
 - Postgraduates earn significantly more ($115,981) than graduates ($94,704).
 - Data Scientists are the most in-demand role (313 openings).
 - Employee satisfaction is highest among Directors (4.00 rating).
 
-(Source: Salary & Professional Insights section) :contentReference[oaicite:4]{index=4}  
+
 
 ---
 
 ### 3️⃣ Hiring Trends & Ownership Analysis
 
 - Private sector has the highest hiring volume (410 roles).
-- Data Scientists dominate across ownership types (24.15% in private sector).
-- Machine Learning Engineers show stronger representation in nonprofits.
+- Data Scientists dominate across ownership types (171 roles in private sector).
+- Government stands too far in comparison to hire data professionals (only 15 roles).
 - Healthcare & Education sectors show lower hiring intensity.
-- Biotech, Insurance & IT Services offer the highest-paying opportunities.
+- Excel, SQL & Python are widely used accross different job roles.
 
-(Source: Hiring Trends & Ownership Insights) :contentReference[oaicite:5]{index=5}  
+
 
 ---
 
 ## Business Recommendations
 
 ### For Job Seekers
-- Target high-demand states: CA, NY, IL, WA.
-- Prioritize industries: Biotech, Insurance, IT Services.
-- Upskill toward Data Science & Machine Learning roles.
+- Target high-demand states: California, New York, Illinois, Washington.
+- Prioritize industries: Biotech, Insurance and Computer Hardwares & Softwares
+- Upskill towards Data Science & Machine Learning roles.
 - Consider postgraduate education for higher salary growth.
 
 ### For Recruiters & Employers
@@ -145,7 +145,6 @@ The dashboard is structured into three analytical segments:
 ## Report Link
 
 🔗 **[View Interactive Power BI Report Here](#)**  
-(Replace with actual Power BI Service link)
 
 ---
 
