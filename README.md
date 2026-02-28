@@ -96,7 +96,7 @@ The report is structured into three analytical segments:
 
 - California and New York lead in hiring demand.
 - Bellevue | Washington offers the highest average salary ($184,500).
-- Biotech & Pharmaceuticals dominate job postings (33.73%).
+- Biotech & Pharmaceuticals dominate job postings (112 posts).
 - Private sector accounts for 55% of total openings.
 
 
