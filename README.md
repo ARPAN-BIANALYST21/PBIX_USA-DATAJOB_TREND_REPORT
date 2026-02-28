@@ -55,9 +55,9 @@ The Report is structured into Three Analytical Segments:
 - **Average Salary:** $101,485  
 
 **Ownership Distribution:**
-- Private Sector: 410 jobs  
-- Public Sector: 193 jobs  
-- Government: 15 jobs  
+- Private Sector: 410 Jobs  
+- Public Sector: 193 Jobs  
+- Government: 15 Jobs  
 
 **Seniority Distribution:**
 - Intermediate: 519  
@@ -96,7 +96,7 @@ The Report is structured into Three Analytical Segments:
 
 - California and New York lead in Hiring Demand.
 - Bellevue | Washington offers the Highest Average Salary ($184,500).
-- Biotech & Pharmaceuticals dominate Job Postings (112 posts).
+- Biotech & Pharmaceuticals dominate Job Postings (112 Posts).
 - Private Sector accounts for 55% of Total Openings.
 
 
@@ -108,8 +108,8 @@ The Report is structured into Three Analytical Segments:
 - Directors earn the Highest Average Salary ($130,800).
 - Chicago | Illinois offers Maximum Salary Potential ($306K).
 - Postgraduates earn significantly more ($115,981) than Graduates ($94,704).
-- Data Scientists are the Most In-Demand Role (313 openings).
-- Employee satisfaction is highest among Directors (4.00 rating).
+- Data Scientists are the Most In-Demand Role (313 Openings).
+- Employee satisfaction is highest among Directors (4.00 Ratings).
 
 
 
@@ -117,9 +117,9 @@ The Report is structured into Three Analytical Segments:
 
 ### 3️⃣ Hiring Trends & Ownership Analysis
 
-- Private Sector has the Highest Hiring Volume (410 roles).
-- Data Scientists dominate across Ownership Types (171 roles in Private Sector).
-- Government stands too far in comparison to hire Data Professionals (only 15 roles).
+- Private Sector has the Highest Hiring Volume (410 Roles).
+- Data Scientists dominate across Ownership Types (171 Roles in Private Sector).
+- Government stands too far in comparison to hire Data Professionals (only 15 Roles).
 - Healthcare & Education Sectors show Lower Hiring Intensity.
 - Excel, SQL & Python are widely used accross different Job Roles.
 
@@ -156,11 +156,11 @@ This project was developed as part of a Structured Business Intelligence Portfol
 
 ## Future Improvements
 
-- Incorporate multi-year hiring trend comparisons  
-- Add forecasting models for demand prediction  
-- Include cost-of-living adjustments for salary normalization  
-- Integrate external labor market datasets for enriched analysis  
-- Develop role-transition pathway analytics  
+- Incorporate Multi-Year Hiring Trend Comparisons  
+- Add Forecasting Models for Demand Prediction  
+- Include Cost-Of-Living Adjustments for Salary Normalization  
+- Integrate External Labor Market Datasets for Advai Analysis  
+- Develop Role-Transition Pathway Analytics  
 
 ---
 
