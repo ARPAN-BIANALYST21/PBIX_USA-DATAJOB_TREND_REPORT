@@ -144,7 +144,7 @@ The report is structured into three analytical segments:
 
 ## Report Link
 
-🔗 **[View Interactive Power BI Report Here](#)**  
+🔗 Link -  
 
 ---
 
