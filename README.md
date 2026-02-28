@@ -1,122 +1,172 @@
-# 📊 USA DATA JOB TREND REPORT
-Power BI Analysis of the U.S. Data Job Market
+# 🇺🇸 USA Data Job Trend Report  
+### Power BI Market Intelligence Dashboard
 
+---
 
-📌 PROJECT OVERVIEW
-| Item              | Description                             |
-| ----------------- | --------------------------------------- |
-| Project Type      | Business Intelligence & Market Analysis |
-| Domain            | Data & Analytics Job Market             |
-| Geography         | United States                           |
-| Dataset Structure | Single Table                            |
-| Total Records     | 742                                     |
-| Total Fields      | 31                                      |
+## 📌 Table of Contents
 
+- [Business Objective](#business-objective)
+- [Project Brief](#project-brief)
+- [Data Overview](#data-overview)
+- [Tools & Techniques](#tools--techniques)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Report Link](#report-link)
+- [Acknowledgement](#acknowledgement)
+- [Future Improvements](#future-improvements)
 
-This Power BI Project analyzes Data-Related Job Trends across the United States, focusing on Hiring Demand, Salary Distribution, Seniority Levels, Skill Requirements, and Ownership Patterns.
+---
 
-The Report emphasizes Clarity, Consistency, and Insight-Driven Storytelling using Simple but Effective Visuals.
+## Business Objective
 
+To analyze and interpret hiring demand, salary structures, role distribution, ownership patterns, and skill requirements across the United States data job market.
 
-📄 REPORT STRUCTURE
-| Page No. | Report Page                        |
-| -------- | ---------------------------------- |
-| 1        | Market Overview                    |
-| 2        | Salary & Professional Insights     |
-| 3        | Hiring Trends & Ownership Insights |
+The goal of this project is to enable:
 
+- Data-driven career decisions for job seekers  
+- Strategic hiring decisions for recruiters  
+- Market positioning insights for workforce planners  
 
-🗂 DATASET INFORMATION
-| Attribute        | Value                |
-| ---------------- | -------------------- |
-| Dataset Type     | Single Table         |
-| Records          | 742                  |
-| Columns          | 31                   |
-| Data Scope       | U.S. Data Job Market |
-| Data Granularity | Job-Level            |
+---
 
+## Project Brief
 
-Included Fields:
-Job Title, Salary Ranges, Company Name, Industry, Location, Seniority, Ownership Type, Education Level, Skills, and Ratings.
+This Power BI report explores data-related job trends across the United States, delivering insights into:
 
+- States, companies, and industries with the highest job openings  
+- Salary variations by role, education, and location  
+- Seniority distribution across job roles  
+- Ownership-based hiring patterns  
+- In-demand technical skills across job categories  
 
-🛠 TOOLS & TECHNOLOGIES
-| Tool               | Usage                                         |
-| ------------------ | --------------------------------------------- |
-| MySQL Workbench    | Data Extraction & Ad-Hoc SQL Analysis         |
-| Microsoft Excel    | Exploratory Data Analysis (Pivot Tables)      |
-| Microsoft Power BI | Data Modeling, DAX Measures, Dashboard Design |
-| Power Query        | Data Cleaning & Transformation                |
+The dashboard is structured into three analytical segments:
 
+1. **Market Overview**
+2. **Salary & Professional Insights**
+3. **Hiring Trends & Ownership Analysis**
 
-📊 MARKET OVERVIEW
-| Key Metric          | Insight                                             |
-| ------------------- | --------------------------------------------------- |
-| Top Hiring States   | California, New York, Massachusetts, Illinois       |
-| Leading Industries  | Biotech & Pharmaceuticals, Insurance, CS&H          |
-| Ownership Dominance | Private Sector (~55% of Total Jobs)                 |
-| Market Pattern      | Hiring Concentrated in Select States and Industries |
+---
 
+## Data Overview
 
-💰 SALARY & PROFESSIONAL INSIGHTS
-| Aspect               | Observation                               |
-| -------------------- | ----------------------------------------- |
-| Highest Paying Roles | Director, Machine Learning Engineer       |
-| Top Paying Locations | Chicago (IL), California, Washington (DC) |
-| Education Impact     | Postgraduates Earn Significantly More     |
-| Most In-Demand Role  | Data Scientist                            |
-| Satisfaction Trend   | Higher at Senior Levels                   |
+- **Total Job Openings:** 742  
+- **Total Industries:** 60  
+- **Total Companies:** 343  
+- **Average Salary:** $101,485  
 
+**Ownership Distribution:**
+- Private Sector: 410 jobs  
+- Public Sector: 193 jobs  
+- Government: 15 jobs  
 
-🏢 HIRING TRENDS & OWNERSHIP INSIGHTS
-| Ownership Type         | Trend                                     |
-| ---------------------- | ----------------------------------------- |
-| Private Sector         | Highest Hiring Volume                     |
-| Public Sector          | Moderate Opportunities                    |
-| Government             | Limited Openings                          |
-| Education Institutions | Lowest Hiring Volume                      |
-| Demanding Skills       | Data Scientists & Data Engineers          |
+**Seniority Distribution:**
+- Intermediate: 519  
+- Senior: 220  
+- Junior: 3  
 
+(Data derived from dashboard pages 2–4) :contentReference[oaicite:2]{index=2}  
 
-📐 DATA MODEL & DESIGN APPROACH
-| Design Aspect   | Implementation                  |
-| --------------- | ------------------------------- |
-| Data Model      | Single Table                    |
-| Transformations | Power Query                     |
-| Visual Strategy | KPI-Driven, No Slicers          |
-| Layout          | Consistent Sizing and Alignment |
-| Focus           | Trend Clarity over Complexity   |
+---
 
+## Tools & Techniques
 
-📊 DAX MEASURES
-| Measure Name      | DAX Code                                                                  |
-| ----------------- | ------------------------------------------------------------------------- |
-| Data_Scientists   | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Job_Title] = "Data Scientist"))`     |
-| Government_Jobs   | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Government"))` |
-| Intermediate_Jobs | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Intermediate"))`       |
-| Junior_Jobs       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Junior"))`             |
-| Senior_Jobs       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Seniority] = "Senior"))`             |
-| Private_Jobs      | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Private"))`    |
-| Public_Jobs       | `COUNTROWS(FILTER(Data_Tab, Data_Tab[Type_of_Ownership] = "Public"))`     |
-| Max_Salary        | `MAX(Data_Tab[Upper_Salary])`                                             |
-| Min_Salary        | `MIN(Data_Tab[Lower_Salary])`                                             |
-| Salary_Avg        | `AVERAGE(Data_Tab[Avg_Salary])`                                           |
-| Total_Jobs        | `COUNT(Data_Tab[Job_Title])`                                              |
-| Total_Companies   | `DISTINCTCOUNT(Data_Tab[Company_Name])`                                   |
-| Total_Industries  | `DISTINCTCOUNT(Data_Tab[Industry])`                                       |
+### Data Preparation
+- Single-table dataset loading
+- Data cleaning & transformation using Power Query
 
+### Data Modeling & Analysis
+- DAX measures for:
+  - Job Counts
+  - Salary Analysis
+  - Skill Presence
+  - Education Impact
+- KPI modeling for hiring demand & compensation trends
 
-🧠 KEY TAKEAWAYS
-| Area           | Conclusion                      |
-| -------------- | ------------------------------- |
-| Job Market     | Concentrated and Competitive    |
-| Hiring Driver  | Private Organizations           |
-| Salary Driver  | Education & Seniority           |
-| Role Stability | Data Science & Data Engineering |
-| Skill Focus    | Python, SQL, Analytics Tools    |
+### Visualization
+- Multi-page Power BI dashboards:
+  - Market Overview
+  - Salary & Professional Insights
+  - Hiring Trends & Ownership Analysis
 
+---
 
-📄 FULL REPORT :   https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/1e69f43fd6b62b0d49a8d8d2f4b1951da2acfce5/USA-DATAJOB_TREND_REPORT.pdf
+## Key Insights
+
+### 1️⃣ Market Overview
+
+- California and New York lead in hiring demand.
+- Bellevue, WA offers the highest average salary ($184,500).
+- Biotech & Pharmaceuticals dominate job postings (33.73%).
+- Private sector accounts for 55% of total openings.
+
+(Source: Market Overview page) :contentReference[oaicite:3]{index=3}  
+
+---
+
+### 2️⃣ Salary & Professional Insights
+
+- Directors earn the highest average salary ($130,800).
+- Chicago, IL offers maximum salary potential ($306K).
+- Postgraduates earn significantly more ($115,981) than graduates ($94,704).
+- Data Scientists are the most in-demand role (313 openings).
+- Employee satisfaction is highest among Directors (4.00 rating).
+
+(Source: Salary & Professional Insights section) :contentReference[oaicite:4]{index=4}  
+
+---
+
+### 3️⃣ Hiring Trends & Ownership Analysis
+
+- Private sector has the highest hiring volume (410 roles).
+- Data Scientists dominate across ownership types (24.15% in private sector).
+- Machine Learning Engineers show stronger representation in nonprofits.
+- Healthcare & Education sectors show lower hiring intensity.
+- Biotech, Insurance & IT Services offer the highest-paying opportunities.
+
+(Source: Hiring Trends & Ownership Insights) :contentReference[oaicite:5]{index=5}  
+
+---
+
+## Business Recommendations
+
+### For Job Seekers
+- Target high-demand states: CA, NY, IL, WA.
+- Prioritize industries: Biotech, Insurance, IT Services.
+- Upskill toward Data Science & Machine Learning roles.
+- Consider postgraduate education for higher salary growth.
+
+### For Recruiters & Employers
+- Strengthen competitive salary positioning in high-demand states.
+- Focus on Data Science roles for strategic hiring advantage.
+- Expand hiring pipelines in high-growth industries.
+
+---
+
+## Report Link
+
+🔗 **[View Interactive Power BI Report Here](#)**  
+(Replace with actual Power BI Service link)
+
+---
+
+## Acknowledgement
+
+This project was developed as part of a structured Business Intelligence portfolio initiative, focusing on transforming labor market data into actionable decision intelligence using Power BI.
+
+---
+
+## Future Improvements
+
+- Incorporate multi-year hiring trend comparisons  
+- Add forecasting models for demand prediction  
+- Include cost-of-living adjustments for salary normalization  
+- Integrate external labor market datasets for enriched analysis  
+- Develop role-transition pathway analytics  
+
+---
+
+### 🔎 Project Classification  
+Business Intelligence | Market Analysis | Salary Analytics | Hiring Trends | Skill Intelligence | Power BI Dashboard
 
 
 
