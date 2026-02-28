@@ -19,13 +19,13 @@
 
 ## Business Objective
 
-To analyze and interpret hiring demand, salary structures, role distribution, ownership patterns, and skill requirements across the United States data job market.
+To analyze and interpret Hiring Demand, Salary Structures, Role Distribution, Ownership Patterns, and Skill Requirements across the United States Data Job Market.
 
-The goal of this project is to enable:
+The goal of this Project is to enable:
 
-- Data-driven career decisions for job seekers  
-- Strategic hiring decisions for recruiters  
-- Market positioning insights for workforce planners  
+- Data-Driven Career Decisions for Job Seekers  
+- Strategic Hiring Decisions for Recruiters  
+- Market Positioning Insights for Workforce Planners  
 
 ---
 
@@ -33,13 +33,13 @@ The goal of this project is to enable:
 
 This Power BI report explores data-related job trends across the United States, delivering insights into:
 
-- States, companies, and industries with the highest job openings  
-- Salary variations by role, education, and location  
-- Seniority distribution across job roles  
-- Ownership-based hiring patterns  
-- In-demand technical skills across job categories  
+- States, Companies, and Industries with the Highest Job Openings  
+- Salary Variations by Role, Education, and Location  
+- Seniority Distribution across Job Roles  
+- Ownership-Based hiring patterns  
+- In-Demand Technical Skills across Job Categories  
 
-The report is structured into three analytical segments:
+The Report is structured into Three Analytical Segments:
 
 1. **Market Overview**
 2. **Salary & Professional Insights**
@@ -71,8 +71,8 @@ The report is structured into three analytical segments:
 ## Tools & Techniques
 
 ### Data Preparation
-- Single-table dataset loading
-- Data cleaning & transformation using Power Query
+- Single-Table Dataset
+- Data Cleaning & Transformation using Power Query
 
 ### Data Modeling & Analysis
 - DAX measures for:
@@ -80,10 +80,10 @@ The report is structured into three analytical segments:
   - Salary Analysis
   - Skill Presence
   - Education Impact
-- KPI modeling for hiring demand & compensation trends
+- KPIs Modeling for Hiring Demand & Compensation Rrends
 
 ### Visualization
-- Multi-Page Power BI Dashboards:
+- Multi-Paged Power BI Dashboards:
   - Market Overview
   - Salary & Professional Insights
   - Hiring Trends & Ownership Analysis
@@ -94,10 +94,10 @@ The report is structured into three analytical segments:
 
 ### 1️⃣ Market Overview
 
-- California and New York lead in hiring demand.
-- Bellevue | Washington offers the highest average salary ($184,500).
-- Biotech & Pharmaceuticals dominate job postings (112 posts).
-- Private sector accounts for 55% of total openings.
+- California and New York lead in Hiring Demand.
+- Bellevue | Washington offers the Highest Average Salary ($184,500).
+- Biotech & Pharmaceuticals dominate Job Postings (112 posts).
+- Private Sector accounts for 55% of Total Openings.
 
 
 
@@ -105,10 +105,10 @@ The report is structured into three analytical segments:
 
 ### 2️⃣ Salary & Professional Insights
 
-- Directors earn the highest average salary ($130,800).
-- Chicago | Illinois offers maximum salary potential ($306K).
-- Postgraduates earn significantly more ($115,981) than graduates ($94,704).
-- Data Scientists are the most in-demand role (313 openings).
+- Directors earn the Highest Average Salary ($130,800).
+- Chicago | Illinois offers Maximum Salary Potential ($306K).
+- Postgraduates earn significantly more ($115,981) than Graduates ($94,704).
+- Data Scientists are the Most In-Demand Role (313 openings).
 - Employee satisfaction is highest among Directors (4.00 rating).
 
 
@@ -117,11 +117,11 @@ The report is structured into three analytical segments:
 
 ### 3️⃣ Hiring Trends & Ownership Analysis
 
-- Private sector has the highest hiring volume (410 roles).
-- Data Scientists dominate across ownership types (171 roles in private sector).
-- Government stands too far in comparison to hire data professionals (only 15 roles).
-- Healthcare & Education sectors show lower hiring intensity.
-- Excel, SQL & Python are widely used accross different job roles.
+- Private Sector has the Highest Hiring Volume (410 roles).
+- Data Scientists dominate across Ownership Types (171 roles in Private Sector).
+- Government stands too far in comparison to hire Data Professionals (only 15 roles).
+- Healthcare & Education Sectors show Lower Hiring Intensity.
+- Excel, SQL & Python are widely used accross different Job Roles.
 
 
 
@@ -133,12 +133,12 @@ The report is structured into three analytical segments:
 - Target high-demand states: California, New York, Illinois, Washington.
 - Prioritize industries: Biotech, Insurance and Computer Hardwares & Softwares
 - Upskill towards Data Science & Machine Learning roles.
-- Consider Postgraduate education for higher salary growth.
+- Consider Postgraduate Education for Higher Salary Growth.
 
 ### For Recruiters & Employers
-- Strengthen competitive salary positioning in high-demand states.
-- Focus on Data Science roles for strategic hiring advantage.
-- Expand hiring pipelines in high-growth industries.
+- Strengthen competitive salary positioning in High-Demand States.
+- Focus on Data Science Roles for Strategic Hiring Advantage.
+- Expand Hiring Pipelines in High-Growth Industries.
 
 ---
 
@@ -150,7 +150,7 @@ The report is structured into three analytical segments:
 
 ## Acknowledgement
 
-This project was developed as part of a structured Business Intelligence portfolio initiative, focusing on transforming labor market data into actionable decision intelligence using Power BI.
+This project was developed as part of a Structured Business Intelligence Portfolio Initiative, focusing on transforming Labor Market Data into Actionable Decision Intelligence using Power BI.
 
 ---
 
