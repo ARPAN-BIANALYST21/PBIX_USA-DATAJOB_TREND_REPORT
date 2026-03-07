@@ -41,18 +41,18 @@ This Power BI report explores data-related job trends across the United States, 
 
 The Report is structured into Three Analytical Segments:
 
-1. **Market Overview**
-2. **Salary & Professional Insights**
-3. **Hiring Trends & Ownership Analysis**
+1. Market Overview
+2. Salary & Professional Insights
+3. Hiring Trends & Ownership Analysis
 
 ---
 
 ## Data Overview
 
-- **Total Job Openings:** 742  
-- **Total Industries:** 60  
-- **Total Companies:** 343  
-- **Average Salary:** $101,485  
+- Total Job Openings: 742  
+- Total Industries: 60  
+- Total Companies: 343  
+- Average Salary: $101,485  
 
 **Ownership Distribution:**
 - Private Sector: 410 Jobs  
