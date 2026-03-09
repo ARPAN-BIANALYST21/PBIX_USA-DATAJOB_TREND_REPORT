@@ -144,7 +144,7 @@ The Report is structured into Three Analytical Segments:
 
 ## Report Link
 
-🔗 https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/13870f7c5a88d4eef1807c52d9feba389e89210d/03.USA-DATAJOB_TREND_REPORT.pdf
+🔗 
 
 ---
 
