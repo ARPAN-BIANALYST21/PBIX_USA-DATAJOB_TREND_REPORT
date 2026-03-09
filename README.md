@@ -1,5 +1,5 @@
 #   USA Data Job Trend Report  
-### Power BI Market Intelligence Dashboard
+### Power BI Market Intelligence Report
 
 ---
 
