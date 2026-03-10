@@ -159,7 +159,7 @@ This project was developed as part of a Structured Business Intelligence Portfol
 - Incorporate Multi-Year Hiring Trend Comparisons  
 - Add Forecasting Models for Demand Prediction  
 - Include Cost-Of-Living Adjustments for Salary Normalization  
-- Integrate External Labor Market Datasets for Advai Analysis  
+- Integrate External Labor Market Datasets for Advanced Analysis  
 - Develop Role-Transition Pathway Analytics  
 
 ---
