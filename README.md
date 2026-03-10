@@ -136,7 +136,7 @@ The Report is structured into Three Analytical Segments:
 - Consider Postgraduate Education for Higher Salary Growth.
 
 ### For Recruiters & Employers
-- Strengthen competitive salary positioning in High-Demand States.
+- Strengthen Competitive Salary Positioning in High-Demand States.
 - Focus on Data Science Roles for Strategic Hiring Advantage.
 - Expand Hiring Pipelines in High-Growth Industries.
 
