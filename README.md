@@ -165,7 +165,7 @@ This project was developed as part of a Structured Business Intelligence Portfol
 ---
 
 ### 🔎 Project Classification  
-Business Intelligence | Market Analysis | Salary Analytics | Hiring Trends | Skill Intelligence | Power BI Dashboard
+Business Intelligence | Market Analysis | Salary Analytics | Hiring Trends | Skill Intelligence | Power BI Dashboards
 
 
 
