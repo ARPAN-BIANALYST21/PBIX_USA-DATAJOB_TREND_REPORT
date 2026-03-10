@@ -144,7 +144,7 @@ The Report is structured into Three Analytical Segments:
 
 ## Report Link
 
-🔗 
+🔗 03.USA-DATAJOB_TREND_REPORT.pdf
 
 ---
 
