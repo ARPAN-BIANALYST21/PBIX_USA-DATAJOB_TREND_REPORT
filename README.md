@@ -121,7 +121,7 @@ The Report is structured into Three Analytical Segments:
 - Data Scientists dominate across Ownership Types (171 Roles in Private Sector).
 - Government stands too far in comparison to hire Data Professionals (15 Roles only).
 - Healthcare & Education Sectors show Lower Hiring Intensity.
-- Excel, SQL & Python are widely used accross different Job Roles.
+- Apache Spark, Excel, SQL & Python are widely used accross different Job Roles.
 
 
 
@@ -130,8 +130,8 @@ The Report is structured into Three Analytical Segments:
 ## Business Recommendations
 
 ### For Job Seekers
-- Target high-demand states: California, New York, Illinois, Washington.
-- Prioritize industries: Biotech, Insurance and Computer Hardwares & Softwares
+- Target High-Demand States: California, New York & Massachusetts
+- Prioritize Industries: Biotech, Insurance and Computer Hardwares & Softwares
 - Upskill towards Data Science & Machine Learning roles.
 - Consider Postgraduate Education for Higher Salary Growth.
 
@@ -144,7 +144,7 @@ The Report is structured into Three Analytical Segments:
 
 ## Report Link
 
-🔗 https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/c0a85061cbdd1acc4e98a80bfe10a03eef08039b/03.USA-DATAJOB_TREND_REPORT.pdf
+🔗 
 
 ---
 
