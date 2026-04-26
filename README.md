@@ -1,173 +1,198 @@
-#   USA Data Job Trend Report  
-### Power BI Market Intelligence Dashboards
+# 🚀 **USA DATA JOB TREND REPORT**
+
+### **POWER BI MARKET INTELLIGENCE DASHBOARDS**
 
 ---
 
-## 📌 Table of Contents
+## 📌 **TABLE OF CONTENTS**
 
-- [Business Objective](#business-objective)
-- [Project Brief](#project-brief)
-- [Data Overview](#data-overview)
-- [Tools & Techniques](#tools--techniques)
-- [Key Insights](#key-insights)
-- [Business Recommendations](#business-recommendations)
-- [Report Link](#report-link)
-- [Acknowledgement](#acknowledgement)
-- [Future Improvements](#future-improvements)
-
----
-
-## Business Objective
-
-To analyze and interpret hiring demand, salary structures, role distribution, ownership patterns, and skill requirements across the United States data job market.
-
-The goal of this project is to enable:
-
-- Data-driven career decisions for job seekers  
-- Strategic hiring decisions for recruiters  
-- Market positioning insights for workforce planners  
+* `BUSINESS OBJECTIVE`
+* `PROJECT BRIEF`
+* `DATA OVERVIEW`
+* `TOOLS & TECHNIQUES`
+* `KEY INSIGHTS`
+* `BUSINESS RECOMMENDATIONS`
+* `REPORT LINK`
+* `ACKNOWLEDGEMENT`
+* `FUTURE IMPROVEMENTS`
 
 ---
 
-## Project Brief
+# 🎯 **BUSINESS OBJECTIVE**
 
-This Power BI report explores data job trends across the United States, delivering insights into:
+TO ANALYZE AND INTERPRET **HIRING DEMAND, SALARY STRUCTURES, ROLE DISTRIBUTION, AND SKILL REQUIREMENTS** ACROSS THE UNITED STATES DATA JOB MARKET.
 
-- States, companies, and industries with the highest job openings  
-- Salary variations by role, education, and location  
-- Seniority distribution across job roles  
-- Ownership-based hiring patterns  
-- In-demand technical skills across job categories  
+### 🔍 THIS PROJECT ENABLES:
 
-The report is structured into three analytical segments:
-
-1. Market Overview
-2. Salary & Professional Insights
-3. Hiring Trends & Ownership Analysis
+* 📊 **DATA-DRIVEN CAREER DECISIONS** FOR JOB SEEKERS
+* 🧠 **STRATEGIC HIRING INSIGHTS** FOR RECRUITERS
+* 📈 **MARKET TREND ANALYSIS** FOR BUSINESS DECISION-MAKING
 
 ---
 
-## Data Overview
+# 📖 **PROJECT BRIEF**
 
-Executive KPIs:
-- Total Job Openings: 742  
-- Total Industries: 60  
-- Total Companies: 343  
-- Average Salary: $101,485  
+THIS POWER BI REPORT DELIVERS A **FOCUSED MARKET ANALYSIS** OF THE U.S. DATA JOB LANDSCAPE USING A CLEAN AND OPTIMIZED DATASET.
 
-Ownership Distribution:
-- Private Sector: 410 Jobs  
-- Public Sector: 193 Jobs  
-- Government: 15 Jobs  
+### 📊 KEY ANALYTICAL AREAS:
 
-Seniority Distribution:
-- Intermediate: 519  
-- Senior: 220  
-- Junior: 3  
-
-
+* 🌍 STATES WITH HIGHEST JOB DEMAND
+* 💰 SALARY VARIATION BY ROLE AND EXPERIENCE
+* 👨‍💼 ROLE DISTRIBUTION ACROSS THE MARKET
+* 🏢 OWNERSHIP-BASED HIRING PATTERNS
+* 🛠️ IN-DEMAND TECHNICAL SKILLS
 
 ---
 
-## Tools & Techniques
+### 🧱 REPORT STRUCTURE:
 
-### Data Preparation
-- Single-table dataset
-- Data cleaning & transformation using Power Query
-
-### Data Modeling & Analysis
-- DAX measures for:
-  - Job counts
-  - Salary analysis
-  - Skill presence
-  - Education impact
-- KPIs modeling for hiring demand & compensation trends
-
-### Visualization
-- Multi-paged Power BI dashboards:
-  - Market Overview
-  - Salary & Professional Insights
-  - Hiring Trends & Ownership Analysis
+1. `EXECUTIVE OVERVIEW`
+2. `ROLES & SKILLS WITH SALARY`
+3. `LOCATION & INDUSTRY INSIGHTS`
 
 ---
 
-## Key Insights
+# 📊 **DATA OVERVIEW**
 
-### 1️⃣ Market Overview
+### 📌 EXECUTIVE KPIs:
 
-- California and New York lead in hiring demand.
-- Bellevue | Washington offers the highest average salary ($184,500).
-- Biotech and Pharmaceuticals dominate job postings (112 posts).
-- The private sector accounts for 55% of total openings.
-
-
+* 📈 `TOTAL JOB OPENINGS` → **343**
+* 💰 `AVERAGE SALARY` → **$99,219**
+* 🧑‍💼 `TOP ROLE` → **DATA SCIENTIST**
+* 🛠️ `TOP SKILLS` → **SQL | PYTHON | EXCEL**
 
 ---
 
-### 2️⃣ Salary & Professional Insights
+### 🏢 OWNERSHIP DISTRIBUTION:
 
-- Directors earn the highest average salary ($130,800).
-- Chicago | Illinois offers maximum salary potential ($306K).
-- Postgraduates earn significantly more ($115,981) than graduates ($94,704).
-- Data Scientists are the most in-demand role (313 openings).
-- Directors have the highest satisfaction rating among all roles (4.00).
-
-
+* 🟦 `PRIVATE` → **206 JOBS**
+* 🟩 `PUBLIC` → **77 JOBS**
+* 🟨 `NONPROFIT` → **23 JOBS**
 
 ---
 
-### 3️⃣ Hiring Trends & Ownership Analysis
+### 👨‍💼 SENIORITY (SALARY-BASED):
 
-- The private sector has the highest hiring volume (410 roles).
-- Data Scientists dominate across ownership types (171 roles in private sector).
-- Government hiring is significantly lower compared to other sectors (only 15 roles).
-- Healthcare and Education sectors show lower hiring intensity.
-- Apache Spark, Excel, SQL and Python are widely used across different job roles.
-
-
+* 🟩 `ENTRY LEVEL` → **78**
+* 🟨 `MID LEVEL` → **155**
+* 🟥 `SENIOR LEVEL` → **110**
 
 ---
 
-## Business Recommendations
+# 🛠️ **TOOLS & TECHNIQUES**
 
-### For Job Seekers
-- Target high-demand states: California, New York and Massachusetts
-- Prioritize industries: Biotech, Insurance, Computer Hardware and Software industries
-- Upskill towards Data Science and Machine Learning roles.
-- Consider postgraduate education for higher salary growth.
+### 🔧 DATA PREPARATION
 
-### For Recruiters & Employers
-- Strengthen competitive salary positioning in high-demand states.
-- Focus on Data Science roles for strategic hiring advantage.
-- Expand hiring pipelines in high-growth industries.
+* CLEANED AND TRANSFORMED USING `POWER QUERY`
+* SINGLE-TABLE DATA MODEL
 
 ---
 
-## Report Link
+### 📐 DATA MODELING & ANALYSIS
 
-🔗 https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/25a0198b85129d4ca05dcd48ae1949511f2d25cb/03.USA-DATAJOB_TREND_REPORT.pdf
+* `DAX MEASURES` FOR:
 
----
+  * JOB COUNTS
+  * SALARY SEGMENTATION
+  * SKILL ANALYSIS
 
-## Acknowledgement
+* KPI MODELING FOR:
 
-This project was developed as part of a structured Business Intelligence portfolio initiative, focusing on transforming labor market data into actionable decision intelligence using Power BI.
-
----
-
-## Future Improvements
-
-- Incorporate multi-year hiring trend comparisons  
-- Add forecasting models for demand prediction  
-- Include cost-of-living adjustments for salary normalization  
-- Integrate external labor market datasets for advanced analysis  
-- Develop role-transition pathway analytics  
+  * 📊 DEMAND ANALYSIS
+  * 💰 COMPENSATION INSIGHTS
 
 ---
 
-### 🔎 Project Classification  
-Business Intelligence | Market Analysis | Salary Analytics | Hiring Trends | Skill Intelligence | Power BI Dashboards
+### 📊 VISUALIZATION
 
+* 3-PAGE POWER BI DASHBOARD:
 
+  * `EXECUTIVE OVERVIEW`
+  * `ROLES & SKILLS WITH SALARY`
+  * `LOCATION & INDUSTRY INSIGHTS`
 
+---
 
+# 🔍 **KEY INSIGHTS**
+
+---
+
+## 1️⃣ `EXECUTIVE OVERVIEW`
+
+* 📍 **CALIFORNIA** LEADS JOB DEMAND (78 OPENINGS)
+* 🧠 **DATA SCIENTIST** IS THE MOST DEMANDED ROLE (161 JOBS)
+* 🛠️ **SQL, PYTHON, EXCEL** DOMINATE SKILL REQUIREMENTS
+* 🏢 PRIVATE SECTOR DRIVES MAJORITY HIRING
+
+---
+
+## 2️⃣ `ROLES & SKILLS WITH SALARY`
+
+* 💰 **SENIOR ROLES EARN ~2X ENTRY-LEVEL SALARY**
+* 📈 MID-LEVEL POSITIONS DOMINATE HIRING VOLUME
+* 🎓 HIGHER EDUCATION CORRELATES WITH HIGHER PAY
+* 🧠 TECHNICAL ROLES REQUIRE MULTIPLE TOOL PROFICIENCY
+
+---
+
+## 3️⃣ `GEOGRAPHIC & INDUSTRY INSIGHTS`
+
+* 💰 **CALIFORNIA AND D.C. OFFER HIGHEST SALARY LEVELS**
+* 🏭 **BIOPHARMA AND IT SERVICES LEAD JOB DEMAND**
+* 🏢 FEW COMPANIES ACCOUNT FOR TOP SALARY RANGES
+* 📊 INDUSTRY DEMAND AND SALARY DO NOT ALWAYS ALIGN
+
+---
+
+# 💡 **BUSINESS RECOMMENDATIONS**
+
+---
+
+## 🎯 FOR JOB SEEKERS
+
+* TARGET HIGH-DEMAND STATES:
+  `CALIFORNIA | NEW YORK | MASSACHUSETTS`
+
+* FOCUS ON SKILLS:
+  `SQL | PYTHON | EXCEL | CLOUD TECHNOLOGIES`
+
+* AIM FOR MID-LEVEL ROLES FOR HIGHER OPPORTUNITIES
+
+---
+
+## 🧠 FOR RECRUITERS
+
+* OPTIMIZE SALARY STRUCTURES IN HIGH-DEMAND MARKETS
+* PRIORITIZE DATA SCIENCE AND ANALYTICS ROLES
+* ALIGN SKILL REQUIREMENTS WITH INDUSTRY DEMAND
+
+---
+
+# 🔗 **REPORT LINK**
+
+👉 `POWER BI DASHBOARD:`
+https://github.com/arpan-bisolution21/PBIX_USA-DATAJOB_TREND_REPORT/blob/25a0198b85129d4ca05dcd48ae1949511f2d25cb/03.USA-DATAJOB_TREND_REPORT.pdf
+
+---
+
+# 🙌 **ACKNOWLEDGEMENT**
+
+THIS PROJECT WAS DEVELOPED AS PART OF A **BUSINESS INTELLIGENCE PORTFOLIO INITIATIVE**, FOCUSING ON DELIVERING **ACTIONABLE MARKET INSIGHTS USING POWER BI**.
+
+---
+
+# 🚀 **FUTURE IMPROVEMENTS**
+
+* 📈 ADD TIME-SERIES TREND ANALYSIS
+* 🔮 BUILD PREDICTIVE HIRING MODELS
+* 🌍 INCLUDE COST-OF-LIVING ADJUSTMENTS
+* 🔗 INTEGRATE EXTERNAL LABOR MARKET DATA
+
+---
+
+# 🏷️ **PROJECT CLASSIFICATION**
+
+`BUSINESS INTELLIGENCE` | `MARKET ANALYSIS` | `SALARY ANALYTICS` |
+`HIRING TRENDS` | `SKILL INTELLIGENCE` | `POWER BI DASHBOARDS`
+
+---
